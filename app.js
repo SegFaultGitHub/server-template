@@ -111,7 +111,6 @@ async.auto({
         logger.error(err);
         return process.exit(1);
     } else {
-        app.get("librairies").lib.foo();
         // Do stuff
     }
 });
