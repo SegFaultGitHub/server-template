@@ -1,0 +1,19 @@
+{
+    "camelcase": true,
+    "eqeqeq": true,
+    "freeze": true,
+    "globalstrict": false,
+    "latedef": true,
+    "maxcomplexity": 10,
+    "maxdepth": 5,
+    "maxparams": 5,
+    "noarg": true,
+    "node": true,
+    "nonew": true,
+    "quotmark": "double",
+    "strict": true,
+    "undef": true,
+    "unused": true,
+    "validthis": true,
+    "esversion": 6
+}
